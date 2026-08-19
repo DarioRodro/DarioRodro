@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/dario-rodriguez-quispe-a230131a6"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/deare0_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://dariorodro.github.io/mip0rtaf0li0/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=astro&logoColor=white"/></a>
 </p>
 
@@ -22,6 +23,7 @@
 ### 🧰 Tech Stack
 
 **Lenguajes**
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,cpp,python,php,js&theme=light" /> </p>
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -32,10 +34,7 @@
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 **Frontend / CMS**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,astro,angular,wordpress,bootstrap&theme=light" /> </p>
 
 **Análisis de datos**
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
@@ -45,6 +44,7 @@
 
 ### 📌 Proyectos destacados
 
+- 🍰 **Sistema Web Vlim - Gestión de Ventas y Catálogo para Negocio de Postres** — Python|Flask, SQL, landing page con panel de administrador, dashboard de ventas
 - 🚌 **Sistema Inteligente de Control de Transporte Universitario** — C++, manejo de memoria dinámica y estructuras de datos (proyecto en equipo)
 - 🏥 **Sistema de Gestión de Consultorio Médico** — Python, POO, módulo de estadísticas y reportes con Pandas
 - 🛍️ **Catálogo Web — Comercial Judith** — MySQL, JS, CSS, PHP, incluye chatbot de atención al cliente (Tesina SENATI)
@@ -55,6 +55,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/dario-rodriguez-quispe-a230131a6"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/deare0_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="mailto:dariorodq30@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
