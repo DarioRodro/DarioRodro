@@ -1,4 +1,6 @@
-<h1 align="center">¡Hola! Soy Dario 👋</h1> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16161c,100:2b2d42&height=200&section=header&text=Bienvenid@%20a%20mi%20perfil!&fontSize=40&fontColor=fff&desc=Estudiante%20de%20Ingenieria%20de%20Sistemas%20de%20Informacion&descSize=20&descAlignY=60" /> </p> <p align="center"> <a href="https://linkedin.com/in/dario-rodriguez-quispe-a230131a6"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="https://dariorodro.github.io/mip0rtaf0li0/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=astro&logoColor=white"/></a> </p>
+<h1 align="center">¡Hola! Soy Dario 👋</h1> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16161c,100:2b2d42&height=200&section=header&text=Bienvenid@%20a%20mi%20perfil!&fontSize=40&fontColor=fff&desc=Estudiante%20de%20Ingenieria%20de%20Sistemas%20de%20Informacion&descSize=20&descAlignY=60" /> </p> <p align="center"> <a href="https://linkedin.com/in/dario-rodriguez-quispe-a230131a6"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+  <a href="https://instagram.com/deare0_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://dariorodro.github.io/mip0rtaf0li0/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=astro&logoColor=white"/></a> </p>
+
 ---
 
 ### 🚀 Sobre mí
@@ -12,17 +14,14 @@
 ### 🧰 Tech Stack
 
 **Lenguajes**
-<p align="center"> <img src="https://skillicons.dev/icons?i=html,cpp,python,php,js&theme=light" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=html,cpp,python,php,js&theme=dark" /> </p>
 
 **Bases de datos**
-<p align="center"> <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=light" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" /> </p>
 
 **Frontend / CMS**
-<p align="center"> <img src="https://skillicons.dev/icons?i=react,astro,angular,wordpress,bootstrap&theme=light" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=react,astro,angular,wordpress,bootstrap&theme=dark" /> </p>
 
-**Análisis de datos**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 ---
 
