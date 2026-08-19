@@ -1,11 +1,7 @@
-<h1 align="center">¡Hola! Soy Dario Rodriguez 👋</h1>
-
-<h3 align="center">Estudiante de Ingeniería de Sistemas de Información | Full Stack Developer</h3>
+<h1 align="center">¡Hola! Soy Dario 👋</h1>
 
 <p align="center">
-  🎓 Ingeniería de Sistemas de Información (UPC)<br>
-  🛠️ Técnico en Software con IA (SENATI)<br>
-  🚀 Interesado en backend, bases de datos y desarrollo web
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Bienvenid@%20a%20mi%20perfil!&fontSize=40&fontColor=fff&desc=Estudiante%20de%20Ingenieria%20de%20Sistemas%20de%20Informacion&descSize=20&descAlignY=60" />
 </p>
 
 <p align="center">
@@ -15,7 +11,15 @@
 
 ---
 
-### 🧰 Stack técnico
+### 🚀 Sobre mí
+
+- 🎓 Estudiante de **Ingeniería de Sistemas de Información** en la UPC
+- 🛠️ Técnico en Software con Inteligencia Artificial (SENATI)
+- 💻 Full Stack: bases de datos, backend y desarrollo web
+
+---
+
+### 🧰 Tech Stack
 
 **Lenguajes**
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
@@ -47,7 +51,16 @@
 
 ---
 
-### 📊 Estadísticas
+### 🌐 Conecta conmigo
+
+<p align="center">
+  <a href="https://linkedin.com/in/dario-rodriguez-quispe-a230131a6"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:dariorodq30@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DarioRodro&show_icons=true&theme=default&hide_border=true" height="165"/>
@@ -56,4 +69,4 @@
 
 ---
 
-<p align="center">📫 <b>dariorodq30@gmail.com</b> &nbsp;|&nbsp; 📍 Lima, Perú</p>
+<p align="center">📍 Lima, Perú</p>
