@@ -1,8 +1,8 @@
 <h1 align="center">¡Hola! Soy Dario 👋</h1> 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.png">
-  <img alt="banner" src="./assets/banner-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-light.png">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-dark.png">
+  <img alt="banner" src="./assets/banner-dark.png">
 </picture>
 <p align="center"> <a href="https://linkedin.com/in/dario-rodriguez-quispe-a230131a6"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
   <a href="https://instagram.com/deare0_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://dariorodro.github.io/mip0rtaf0li0/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=astro&logoColor=white"/></a> </p>
