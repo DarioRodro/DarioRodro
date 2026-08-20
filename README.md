@@ -9,11 +9,9 @@
 
 ---
 
-### 🚀 Sobre mí
+<p align="center">🚀 Sobre mí </p>
 
-- 🎓 Estudiante de **Ingeniería de Sistemas de Información** en la UPC
-- 🛠️ Técnico en Software con Inteligencia Artificial (SENATI)
-- 💻 Full Stack: bases de datos, backend y desarrollo web
+Estudiante de Ingeniería de Sistemas de Información en la UPC y Técnico en Software con Inteligencia Artificial por SENATI. Cuento con bases sólidas en desarrollo Full Stack, y actualmente sigo profundizando en el manejo de datos y SQL. Todo esto lo he ido aprendiendo aplicando en la práctica lo que veo en clase, además de investigar por mi cuenta.
 
 ---
 
