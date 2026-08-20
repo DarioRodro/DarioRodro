@@ -1,4 +1,10 @@
-<h1 align="center">¡Hola! Soy Dario 👋</h1> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16161c,100:2b2d42&height=200&section=header&text=Bienvenid@%20a%20mi%20perfil!&fontSize=40&fontColor=fff&desc=Estudiante%20de%20Ingenieria%20de%20Sistemas%20de%20Informacion&descSize=20&descAlignY=60" /> </p> <p align="center"> <a href="https://linkedin.com/in/dario-rodriguez-quispe-a230131a6"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+<h1 align="center">¡Hola! Soy Dario 👋</h1> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.png">
+  <img alt="banner" src="./assets/banner-light.png">
+</picture>
+<p align="center"> <a href="https://linkedin.com/in/dario-rodriguez-quispe-a230131a6"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
   <a href="https://instagram.com/deare0_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a> <a href="https://dariorodro.github.io/mip0rtaf0li0/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=astro&logoColor=white"/></a> </p>
 
 ---
