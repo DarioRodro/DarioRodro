@@ -1,6 +1,6 @@
 <h1 align="center">¡Hola! Soy Dario 👋</h1> 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.png">
   <img alt="banner" src="./assets/banner-dark.png">
 </picture>
