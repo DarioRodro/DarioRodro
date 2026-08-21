@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! Soy Dario 👋</h1> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/banner-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/banner-light.png">
   <img alt="banner" src="./assets/banner-dark.png">
 </picture>
 <p align="center"> <a href="https://linkedin.com/in/dario-rodriguez-quispe-a230131a6"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
